@@ -158,6 +158,15 @@ Tests verify:
 
 ------------------------------------------------------------------------
 
+# Development Environment
+
+Tested with:
+
+- Android Studio
+- Android Emulator: Android 14 (API 34)
+- Min SDK: 24
+- Target SDK: 34
+
 # Running the App
 
 1.  Clone the repository
